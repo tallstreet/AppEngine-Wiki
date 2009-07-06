@@ -1,0 +1,9 @@
+*.csv
+*.pyc
+*.ini
+settings.py
+.project
+.settings
+.pydevproject
+_generated_media
+common
